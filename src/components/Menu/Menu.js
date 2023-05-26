@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import "./Menu.css"
 import Cart from "../cart/cart";
 import { Link } from "react-router-dom";
-import Home from "../../Home";
 class Menu extends Component{
     render(){
         return(
